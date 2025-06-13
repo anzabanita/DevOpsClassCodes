@@ -1,0 +1,3 @@
+Hello!
+
+JUst ti test automation on Jenkins pipeline
